@@ -9,8 +9,7 @@ int main() {
                         "four", "five", "six",
                         "seven", "eight", "nine"};
     
-    scanf("%d", &a);
-    scanf("%d", &b);
+    scanf("%d %d", &a, &b);
 
     for (int i=a; i<=b; i++) {
         if (i <= 9)
