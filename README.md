@@ -10,3 +10,4 @@ Solutions to problems contained on the hacker rank website
 | Input and Output                                                                                                           |    5   |
 | Basic Data Types                                                                                                           |   10   |
 | Conditional Statements                                                                                                     |   10   |
+| For Loop                                                                                                                   |   10   |
