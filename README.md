@@ -12,3 +12,4 @@ Solutions to problems contained on the hacker rank website
 | Conditional Statements                                                                                                     |   10   |
 | For Loop                                                                                                                   |   10   |
 | Functions                                                                                                                  |   10   |
+| Pointer                                                                                                                    |   10   |
