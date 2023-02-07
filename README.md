@@ -14,3 +14,4 @@ Solutions to problems contained on the hacker rank website
 | Functions                                                                                                                  |   10   |
 | Pointer                                                                                                                    |   10   |
 | Arrays Introduction                                                                                                        |   10   |
+| Variable Sized Arrays                                                                                                      |   30   |
