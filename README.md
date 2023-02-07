@@ -13,3 +13,4 @@ Solutions to problems contained on the hacker rank website
 | For Loop                                                                                                                   |   10   |
 | Functions                                                                                                                  |   10   |
 | Pointer                                                                                                                    |   10   |
+| Arrays Introduction                                                                                                        |   10   |
