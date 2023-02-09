@@ -15,3 +15,4 @@ Solutions to problems contained on the hacker rank website
 | Pointer                                                                                                                    |   10   |
 | Arrays Introduction                                                                                                        |   10   |
 | Variable Sized Arrays                                                                                                      |   30   |
+| Attribute Parser                                                                                                           |   35   |
