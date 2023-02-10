@@ -19,3 +19,4 @@ Solutions to problems contained on the hacker rank website
 | StringStream                                                                                                               |   10   |
 | Lower Bound-STL                                                                                                            |   15   |
 | Strings                                                                                                                    |   10   |
+| Structs                                                                                                                    |   10   |
