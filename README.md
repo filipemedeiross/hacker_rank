@@ -16,3 +16,4 @@ Solutions to problems contained on the hacker rank website
 | Arrays Introduction                                                                                                        |   10   |
 | Variable Sized Arrays                                                                                                      |   30   |
 | Attribute Parser                                                                                                           |   35   |
+| StringStream                                                                                                               |   10   |
