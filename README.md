@@ -18,3 +18,4 @@ Solutions to problems contained on the hacker rank website
 | Attribute Parser                                                                                                           |   35   |
 | StringStream                                                                                                               |   10   |
 | Lower Bound-STL                                                                                                            |   15   |
+| Strings                                                                                                                    |   10   |
