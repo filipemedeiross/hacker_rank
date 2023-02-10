@@ -20,3 +20,4 @@ Solutions to problems contained on the hacker rank website
 | Lower Bound-STL                                                                                                            |   15   |
 | Strings                                                                                                                    |   10   |
 | Structs                                                                                                                    |   10   |
+| Deque-STL                                                                                                                  |   50   |
