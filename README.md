@@ -17,3 +17,4 @@ Solutions to problems contained on the hacker rank website
 | Variable Sized Arrays                                                                                                      |   30   |
 | Attribute Parser                                                                                                           |   35   |
 | StringStream                                                                                                               |   10   |
+| Lower Bound-STL                                                                                                            |   15   |
