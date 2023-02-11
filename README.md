@@ -21,3 +21,4 @@ Solutions to problems contained on the hacker rank website
 | Strings                                                                                                                    |   10   |
 | Structs                                                                                                                    |   10   |
 | Deque-STL                                                                                                                  |   50   |
+| Class                                                                                                                      |   10   |
