@@ -22,3 +22,4 @@ Solutions to problems contained on the hacker rank website
 | Structs                                                                                                                    |   10   |
 | Deque-STL                                                                                                                  |   50   |
 | Class                                                                                                                      |   10   |
+| Classes and Objects                                                                                                        |   20   |
