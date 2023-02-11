@@ -23,3 +23,4 @@ Solutions to problems contained on the hacker rank website
 | Deque-STL                                                                                                                  |   50   |
 | Class                                                                                                                      |   10   |
 | Classes and Objects                                                                                                        |   20   |
+| Box It!                                                                                                                    |   30   |
