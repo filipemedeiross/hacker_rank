@@ -25,3 +25,4 @@ Solutions to problems contained on the hacker rank website
 | Classes and Objects                                                                                                        |   20   |
 | Box It!                                                                                                                    |   30   |
 | Vector-Sort                                                                                                                |   10   |
+| Vector-Erase                                                                                                               |   10   |
