@@ -28,3 +28,4 @@ Solutions to problems contained on the hacker rank website
 | Vector-Erase                                                                                                               |   10   |
 | Sets-STL                                                                                                                   |   15   |
 | Maps-STL                                                                                                                   |   15   |
+| Print Pretty                                                                                                               |   20   |
