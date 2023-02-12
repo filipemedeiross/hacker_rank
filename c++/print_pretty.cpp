@@ -10,12 +10,12 @@ int main() {
     cin >> T;
 	
     cout << setiosflags(ios::uppercase);
-	cout << setw(0xf) << internal;
+    cout << setw(0xf) << internal;
 	
     while(T--) {
         cin >> A;
         cin >> B;
-		cin >> C;
+	cin >> C;
 
         cout << showbase << setbase(16) << left << nouppercase;
         cout << (long long) A << endl;
