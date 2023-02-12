@@ -27,3 +27,4 @@ Solutions to problems contained on the hacker rank website
 | Vector-Sort                                                                                                                |   10   |
 | Vector-Erase                                                                                                               |   10   |
 | Sets-STL                                                                                                                   |   15   |
+| Maps-STL                                                                                                                   |   15   |
