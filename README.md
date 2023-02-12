@@ -26,3 +26,4 @@ Solutions to problems contained on the hacker rank website
 | Box It!                                                                                                                    |   30   |
 | Vector-Sort                                                                                                                |   10   |
 | Vector-Erase                                                                                                               |   10   |
+| Sets-STL                                                                                                                   |   15   |
