@@ -29,3 +29,4 @@ Solutions to problems contained on the hacker rank website
 | Sets-STL                                                                                                                   |   15   |
 | Maps-STL                                                                                                                   |   15   |
 | Print Pretty                                                                                                               |   20   |
+| Inherited Code                                                                                                             |   30   |
