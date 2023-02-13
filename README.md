@@ -30,3 +30,4 @@ Solutions to problems contained on the hacker rank website
 | Maps-STL                                                                                                                   |   15   |
 | Print Pretty                                                                                                               |   20   |
 | Inherited Code                                                                                                             |   30   |
+| Overload Operators                                                                                                         |   30   |
