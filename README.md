@@ -31,3 +31,4 @@ Solutions to problems contained on the hacker rank website
 | Print Pretty                                                                                                               |   20   |
 | Inherited Code                                                                                                             |   30   |
 | Overload Operators                                                                                                         |   30   |
+| Operator Overloading                                                                                                       |   25   |
