@@ -36,3 +36,29 @@ Solutions to problems contained on the hacker rank website
 | Virtual Functions                                                                                                          |   40   |
 | Rectangle Area                                                                                                             |   25   |
 | Inheritance Introduction                                                                                                   |   20   |
+| Hotel Prices                                                                                                               |   15   |
+| Multi Level Inheritance                                                                                                    |   25   |
+| Cpp Exception Handling                                                                                                     |   20   |
+| Messages Order                                                                                                             |   40   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
