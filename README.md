@@ -40,25 +40,6 @@ Solutions to problems contained on the hacker rank website
 | Multi Level Inheritance                                                                                                    |   25   |
 | Cpp Exception Handling                                                                                                     |   20   |
 | Messages Order                                                                                                             |   40   |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Overloading Ostream Operator                                                                                               |   20   |
+| Accessing Inherited Functions                                                                                              |   30   |
+| Preprocessor Solution                                                                                                      |   25   |
