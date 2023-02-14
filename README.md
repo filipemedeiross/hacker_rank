@@ -32,3 +32,7 @@ Solutions to problems contained on the hacker rank website
 | Inherited Code                                                                                                             |   30   |
 | Overload Operators                                                                                                         |   30   |
 | Operator Overloading                                                                                                       |   25   |
+| Exceptional Server                                                                                                         |   30   |
+| Virtual Functions                                                                                                          |   40   |
+| Rectangle Area                                                                                                             |   25   |
+| Inheritance Introduction                                                                                                   |   20   |
