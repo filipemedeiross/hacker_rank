@@ -43,3 +43,7 @@ Solutions to problems contained on the hacker rank website
 | Overloading Ostream Operator                                                                                               |   20   |
 | Accessing Inherited Functions                                                                                              |   30   |
 | Preprocessor Solution                                                                                                      |   25   |
+| C++ Class Templates                                                                                                        |   20   |
+| Attending Workshops                                                                                                        |   35   |
+| C++ Class Template Specialization                                                                                          |   35   |
+| Abstract Classes - Polymorphism                                                                                            |   60   |
