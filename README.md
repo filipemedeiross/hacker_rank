@@ -47,3 +47,4 @@ Solutions to problems contained on the hacker rank website
 | Attending Workshops                                                                                                        |   35   |
 | C++ Class Template Specialization                                                                                          |   35   |
 | Abstract Classes - Polymorphism                                                                                            |   60   |
+| Bit Array                                                                                                                  |   80   |
