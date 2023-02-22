@@ -2,6 +2,12 @@
 
 Solutions to problems contained on the hacker rank website
 
+## C
+
+|                                                          Challenge                                                         | Points |
+|:--------------------------------------------------------------------------------------------------------------------------:|:------:|
+| "Hello World!" in C                                                                                                        |    5   |
+
 ## C++
 
 |                                                          Challenge                                                         | Points |
