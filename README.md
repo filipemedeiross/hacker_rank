@@ -48,3 +48,5 @@ Solutions to problems contained on the hacker rank website
 | C++ Class Template Specialization                                                                                          |   35   |
 | Abstract Classes - Polymorphism                                                                                            |   60   |
 | Bit Array                                                                                                                  |   80   |
+| C++ Variadics                                                                                                              |   80   |
+| Magic Spells                                                                                                               |   40   |
