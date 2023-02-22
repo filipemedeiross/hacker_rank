@@ -102,8 +102,7 @@ void counterspell (Spell *spell) {
             }
         }
 
-    cout << L[m][n] << endl;
-
+        cout << L[m][n] << endl;
     }
 }
 
