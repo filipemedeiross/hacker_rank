@@ -7,6 +7,9 @@ Solutions to problems contained on the hacker rank website
 |                                                          Challenge                                                         | Points |
 |:--------------------------------------------------------------------------------------------------------------------------:|:------:|
 | "Hello World!" in C                                                                                                        |    5   |
+| Array Reversal                                                                                                             |   20   |
+| Digit Frequency                                                                                                            |   25   |
+| Playing With Characters                                                                                                    |    5   |
 
 ## C++
 
