@@ -59,3 +59,9 @@ Solutions to problems contained on the hacker rank website
 | Bit Array                                                                                                                  |   80   |
 | C++ Variadics                                                                                                              |   80   |
 | Magic Spells                                                                                                               |   40   |
+
+## REGEX
+
+|                                                          Challenge                                                         | Points |
+|:--------------------------------------------------------------------------------------------------------------------------:|:------:|
+| Matching Specific String                                                                                                   |    5   |
