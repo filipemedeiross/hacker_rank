@@ -70,3 +70,4 @@ Solutions to problems contained on the hacker rank website
 | Matching Whitespace & Non-Whitespace Character                                                                             |    5   |
 | Matching Word & Non-Word Character                                                                                         |    5   |
 | Matching Start & End                                                                                                       |    5   |
+| Valid PAN format                                                                                                           |   15   |
