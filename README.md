@@ -65,3 +65,8 @@ Solutions to problems contained on the hacker rank website
 |                                                          Challenge                                                         | Points |
 |:--------------------------------------------------------------------------------------------------------------------------:|:------:|
 | Matching Specific String                                                                                                   |    5   |
+| Matching Anything But a Newline                                                                                            |    5   |
+| Matching Digits & Non-Digit Characters                                                                                     |    5   |
+| Matching Whitespace & Non-Whitespace Character                                                                             |    5   |
+| Matching Word & Non-Word Character                                                                                         |    5   |
+| Matching Start & End                                                                                                       |    5   |

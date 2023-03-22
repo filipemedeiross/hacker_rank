@@ -1,6 +1,5 @@
 import re
 
-
 regex_pattern = r'hackerrank'
 
 test_string = input()
