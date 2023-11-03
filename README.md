@@ -10,6 +10,9 @@ Solutions to problems contained on the hacker rank website
 | Array Reversal                                                                                                             |   20   |
 | Digit Frequency                                                                                                            |   25   |
 | Playing With Characters                                                                                                    |    5   |
+| Variadic Functions in C                                                                                                    |   50   |
+| 1D Arrays in C                                                                                                             |   10   |
+| Printing Tokens                                                                                                            |   20   |
 
 ## C++
 
