@@ -75,3 +75,9 @@ Solutions to problems contained on the hacker rank website
 | Matching Start & End                                                                                                       |    5   |
 | Valid PAN format                                                                                                           |   15   |
 | Detect HTML links                                                                                                          |   10   |
+
+## Mathematics
+
+|                                                          Challenge                                                         | Points |
+|:--------------------------------------------------------------------------------------------------------------------------:|:------:|
+| Die Hard 3                                                                                                                 |   30   |
