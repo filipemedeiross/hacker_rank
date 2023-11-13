@@ -81,3 +81,4 @@ Solutions to problems contained on the hacker rank website
 |                                                          Challenge                                                         | Points |
 |:--------------------------------------------------------------------------------------------------------------------------:|:------:|
 | Die Hard 3                                                                                                                 |   30   |
+| Summing the N series                                                                                                       |   20   |
