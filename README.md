@@ -82,3 +82,5 @@ Solutions to problems contained on the hacker rank website
 |:--------------------------------------------------------------------------------------------------------------------------:|:------:|
 | Die Hard 3                                                                                                                 |   30   |
 | Summing the N series                                                                                                       |   20   |
+| Strange Grid Again                                                                                                         |   20   |
+| Diwali Lights                                                                                                              |   20   |
