@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-67-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-70-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C/C++/Python-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-14/11/2023-brightgreen.svg">
 </p>
@@ -25,6 +25,9 @@
 | Functions in C                                                                                                             |   10   |
 | Pointers in C                                                                                                              |   10   |
 | Bitwise Operators                                                                                                          |   15   |
+| Conditional Statements in C                                                                                                |   10   |
+| For Loop in C                                                                                                              |   10   |
+| Sum of Digits of a Five Digit Number                                                                                       |   15   |
 
 ## C++
 
