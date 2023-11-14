@@ -13,6 +13,10 @@ Solutions to problems contained on the hacker rank website
 | Variadic Functions in C                                                                                                    |   50   |
 | 1D Arrays in C                                                                                                             |   10   |
 | Printing Tokens                                                                                                            |   20   |
+| Sum and Difference of Two Numbers                                                                                          |    5   |
+| Functions in C                                                                                                             |   10   |
+| Pointers in C                                                                                                              |   10   |
+| Bitwise Operators                                                                                                          |   15   |
 
 ## C++
 
