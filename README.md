@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-73-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-76-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C/C++/Python-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-14/11/2023-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-17/11/2023-brightgreen.svg">
 </p>
 
 ## C
@@ -30,7 +30,10 @@
 | Sum of Digits of a Five Digit Number                                                                                       |   15   |
 | Printing Pattern Using Loops                                                                                               |   30   |
 | Dynamic Array in C                                                                                                         |   40   |
-| Students Marks Sum                                                                                                         |   20   | 
+| Students Marks Sum                                                                                                         |   20   |
+| Sorting Array of Strings                                                                                                   |   40   |
+| Permutations of Strings                                                                                                    |   40   |
+| Calculate the Nth term                                                                                                     |   15   | 
 
 ## C++
 
