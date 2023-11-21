@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-78-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-79-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C/C++/Python-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-19/11/2023-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-21/11/2023-brightgreen.svg">
 </p>
 
 ## C
@@ -35,7 +35,8 @@
 | Permutations of Strings                                                                                                    |   40   |
 | Calculate the Nth term                                                                                                     |   15   |
 | Boxes through a Tunnel                                                                                                     |   25   |
-| Small Triangles, Large Triangles                                                                                           |   30   | 
+| Small Triangles, Large Triangles                                                                                           |   30   |
+| Querying the Document                                                                                                      |   60   | 
 
 ## C++
 
