@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-80-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-81-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C/C++/Python-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-04/12/2023-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-05/12/2023-brightgreen.svg">
 </p>
 
 ## C
@@ -87,6 +87,12 @@
 | Bit Array                                                                                                                  |   80   |
 | C++ Variadics                                                                                                              |   80   |
 | Magic Spells                                                                                                               |   40   |
+
+## Project Euler
+
+|                                                          Challenge                                                         | Points |
+|:--------------------------------------------------------------------------------------------------------------------------:|:------:|
+| Project Euler #1: Multiples of 3 and 5                                                                                     |        |
 
 ## REGEX
 
