@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-81-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-83-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C/C++/Python-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-05/12/2023-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-16/12/2023-brightgreen.svg">
 </p>
 
 ## C
@@ -116,3 +116,9 @@
 | Summing the N series                                                                                                       |   20   |
 | Strange Grid Again                                                                                                         |   20   |
 | Diwali Lights                                                                                                              |   20   |
+
+## Algorithms
+
+|                                                          Challenge                                                         | Points |
+|:--------------------------------------------------------------------------------------------------------------------------:|:------:|
+| Big Sorting                                                                                                                |   20   |
