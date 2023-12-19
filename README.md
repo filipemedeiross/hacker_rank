@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-83-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-84-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C/C++/Python-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-16/12/2023-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-19/12/2023-brightgreen.svg">
 </p>
 
 ## C
@@ -122,3 +122,4 @@
 |                                                          Challenge                                                         | Points |
 |:--------------------------------------------------------------------------------------------------------------------------:|:------:|
 | Big Sorting                                                                                                                |   20   |
+| Insertion Sort - Part 1                                                                                                    |   30   |
