@@ -123,3 +123,8 @@
 |:--------------------------------------------------------------------------------------------------------------------------:|:------:|
 | Big Sorting                                                                                                                |   20   |
 | Insertion Sort - Part 1                                                                                                    |   30   |
+
+## References
+
+Celes, Waldemar. Introdução a Estruturas de Dados: Com Técnicas de Programação em C. Elsevir, 2016.
+Schildt, Herbert. C, Completo e Total. São Paulo: Makron Books, 1996.
