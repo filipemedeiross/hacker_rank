@@ -126,5 +126,6 @@
 
 ## References
 
-Celes, Waldemar. Introdução a Estruturas de Dados: Com Técnicas de Programação em C. Elsevir, 2016.
-Schildt, Herbert. C, Completo e Total. São Paulo: Makron Books, 1996.
+Celes, Waldemar. **Introdução a Estruturas de Dados**: Com Técnicas de Programação em C. Elsevier, 2016.
+
+Schildt, Herbert. **C, Completo e Total**. São Paulo: Makron Books, 1996.
