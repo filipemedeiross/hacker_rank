@@ -88,7 +88,7 @@
 | C++ Variadics                                                                                                              |   80   |
 | Magic Spells                                                                                                               |   40   |
 
-## Project Euler
+## PROJECT EULER
 
 |                                                          Challenge                                                         | Points |
 |:--------------------------------------------------------------------------------------------------------------------------:|:------:|
@@ -108,7 +108,7 @@
 | Valid PAN format                                                                                                           |   15   |
 | Detect HTML links                                                                                                          |   10   |
 
-## Mathematics
+## MATHEMATICS
 
 |                                                          Challenge                                                         | Points |
 |:--------------------------------------------------------------------------------------------------------------------------:|:------:|
@@ -117,14 +117,14 @@
 | Strange Grid Again                                                                                                         |   20   |
 | Diwali Lights                                                                                                              |   20   |
 
-## Algorithms
+## ALGORITHMS
 
 |                                                          Challenge                                                         | Points |
 |:--------------------------------------------------------------------------------------------------------------------------:|:------:|
 | Big Sorting                                                                                                                |   20   |
 | Insertion Sort - Part 1                                                                                                    |   30   |
 
-## References
+## REFERENCES
 
 Celes, Waldemar. **Introdução a Estruturas de Dados**: Com Técnicas de Programação em C. Elsevier, 2016.
 
